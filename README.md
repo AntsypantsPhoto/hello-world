@@ -1,3 +1,3 @@
 # hello-world
-my first repository following the tutorial
+my first repository === 
 38 yo female studying CS50
